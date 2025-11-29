@@ -10,4 +10,4 @@ Testing how image input can be expanded into cinematic Sora-style video.
 
 ## Try It Online
 Generate Sora-style image-to-video clips:
-https://saro2.ai
+[My AI Video Site – Saro2](https://saro2.ai)
